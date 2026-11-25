@@ -37,6 +37,20 @@ Compares business performance and revenue across different states.
 - Interactive slicers
 - Business performance comparisons
 
+- ## Dashboard Preview
+
+### 1. Executive Business Overview
+
+![Executive Overview](01_Executive_Overview.png)
+
+### 2. Industry Analysis
+
+![Industry Analysis](02_Industry_Analysis.png)
+
+### 3. State-wise Business Performance & Revenue Analysis
+
+![State Performance](03_State_Performance.png)
+
 ## Project Files
 - POWERBI PROJECT.pbix – Power BI dashboard file
 - Dashboard screenshots – Visual representation of the dashboards
